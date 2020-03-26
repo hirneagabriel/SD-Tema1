@@ -1,0 +1,155 @@
+Sortari pentru 10 de numere cu valori pana in 100000
+<built-in function sorted>
+0:00:00
+sortarea a trecut testul de validare
+
+<function BubbleSort at 0x02D1FBB0>
+0:00:00
+sortarea a trecut testul de validare
+
+<function CountSort at 0x02D1F9B8>
+0:00:00.015989
+sortarea a trecut testul de validare
+
+<function MergeSort at 0x02D1FAD8>
+0:00:00
+sortarea a trecut testul de validare
+
+<function QuickSort at 0x02D1FB68>
+0:00:00
+sortarea a trecut testul de validare
+
+<function RadixSort at 0x02D1FA48>
+RadixSort pentru baza 10
+0:00:00
+sortarea a trecut testul de validare
+RadixSort pentru baza 65536
+0:00:00.041977
+sortarea a trecut testul de validare
+
+
+
+Sortari pentru 100 de numere cu valori pana in 1000000
+<built-in function sorted>
+0:00:00
+sortarea a trecut testul de validare
+
+<function BubbleSort at 0x02D1FBB0>
+0:00:00.000990
+sortarea a trecut testul de validare
+
+<function CountSort at 0x02D1F9B8>
+0:00:00.186893
+sortarea a trecut testul de validare
+
+<function MergeSort at 0x02D1FAD8>
+0:00:00
+sortarea a trecut testul de validare
+
+<function QuickSort at 0x02D1FB68>
+0:00:00
+sortarea a trecut testul de validare
+
+<function RadixSort at 0x02D1FA48>
+RadixSort pentru baza 10
+0:00:00.000999
+sortarea a trecut testul de validare
+RadixSort pentru baza 65536
+0:00:00.039976
+sortarea a trecut testul de validare
+
+
+
+Sortari pentru 1000 de numere cu valori pana in 1000000
+<built-in function sorted>
+0:00:00.000999
+sortarea a trecut testul de validare
+
+<function BubbleSort at 0x02D1FBB0>
+0:00:00.177896
+sortarea a trecut testul de validare
+
+<function CountSort at 0x02D1F9B8>
+0:00:00.191891
+sortarea a trecut testul de validare
+
+<function MergeSort at 0x02D1FAD8>
+0:00:00.007995
+sortarea a trecut testul de validare
+
+<function QuickSort at 0x02D1FB68>
+0:00:00.004997
+sortarea a trecut testul de validare
+
+<function RadixSort at 0x02D1FA48>
+RadixSort pentru baza 10
+0:00:00.009994
+sortarea a trecut testul de validare
+RadixSort pentru baza 65536
+0:00:00.039977
+sortarea a trecut testul de validare
+
+
+
+Sortari pentru 10000 de numere cu valori pana in 1000000
+<built-in function sorted>
+0:00:00.002000
+sortarea a trecut testul de validare
+
+<function BubbleSort at 0x02D1FBB0>
+0:00:35.326994
+sortarea a trecut testul de validare
+
+<function CountSort at 0x02D1F9B8>
+0:00:00.305629
+sortarea a trecut testul de validare
+
+<function MergeSort at 0x02D1FAD8>
+0:00:00.123928
+sortarea a trecut testul de validare
+
+<function QuickSort at 0x02D1FB68>
+0:00:00.080953
+sortarea a trecut testul de validare
+
+<function RadixSort at 0x02D1FA48>
+RadixSort pentru baza 10
+0:00:00.116931
+sortarea a trecut testul de validare
+RadixSort pentru baza 65536
+0:00:00.098942
+sortarea a trecut testul de validare
+
+
+
+Sortari pentru 1000000 de numere cu valori pana in 1000000
+<built-in function sorted>
+0:00:00.762189
+sortarea a trecut testul de validare
+
+<function BubbleSort at 0x02D1FBB0>
+0:00:00.084952
+eroare de validare
+
+<function CountSort at 0x02D1F9B8>
+0:00:01.286916
+sortarea a trecut testul de validare
+
+<function MergeSort at 0x02D1FAD8>
+0:00:20.018360
+sortarea a trecut testul de validare
+
+<function QuickSort at 0x02D1FB68>
+0:00:17.524024
+sortarea a trecut testul de validare
+
+<function RadixSort at 0x02D1FA48>
+RadixSort pentru baza 10
+0:00:23.083048
+eroare de validare
+RadixSort pentru baza 65536
+0:00:06.508520
+sortarea a trecut testul de validare
+
+
+
